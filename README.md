@@ -35,12 +35,10 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Avec ce projet, nous souhaitons exposé une table interactive qui va être réactive. 
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
-
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+À déterminer 
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
@@ -55,11 +53,11 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
+- ** statuettes (pour les utilisateur-trices)
+- ** sons
+- ** paysages sonores
+- ** vfx d'animation 3D
+- ** source lumineuse
 - 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
 - ...
 
@@ -84,23 +82,23 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
+* table
+    * blanc ou noir
     * 12' x 4' x 3'
-* Cyclorama
+* grand studio avec les murs amovibles
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
+    * 4 haut-parleurs actifs de 4"
+    * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 8 sorties 
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 3 projecteurs vidéo shortrow
+    * 3 système d'acrochage
+    * 1 caméra thermique
 
 * Lumière
     * 4 lumière LED RGBAW DMX
@@ -118,7 +116,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Switch poe 5 ports
 
 * Ordinateur
-    * 1 ordinateur portable 
+    * 1 ordinateur portable
+
+* micro ordinateur
+    * 1 raspberry pi    
     
 * Autre
     * Tout autre élément pertinent
@@ -131,6 +132,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
+* [maya](https://www.autodesk.com/ca-fr)
+* [HyperHDR](https://github.com/awawa-dev/HyperHDR)
+* [VCV Rack](https://vcvrack.com/)
+* [Cardinal](https://cardinal.kx.studio/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.

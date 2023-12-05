@@ -76,7 +76,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/livestream_branchements.png)
+![schema](assets/images/schema_branchement.drawio.png)
 
 ## Matériel de scénographie requis ( jay - fini )
 

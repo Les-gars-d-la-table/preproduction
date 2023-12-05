@@ -51,7 +51,7 @@ Avec ce projet, nous souhaitons exposé une table interactive qui va être réac
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
 
 # Contenu multimédia à intégrer
-## Inventaire du contenu multimédia
+## Inventaire du contenu multimédia (jay - fini)
 
 - ** statuettes (pour les utilisateur-trices)
 - ** sons
@@ -78,7 +78,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ![exemple de schema](medias/livestream_branchements.png)
 
-## Matériel de scénographie requis
+## Matériel de scénographie requis ( jay - fini )
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
@@ -87,7 +87,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 12' x 4' x 3'
 * grand studio avec les murs amovibles
 
-## Équipements requis
+## Équipements requis (jay - en cours)
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio

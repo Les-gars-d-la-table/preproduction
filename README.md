@@ -96,9 +96,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Interface audio USB disposant 8 sorties 
 
 * Vidéo
-    * 3 projecteurs vidéo shortrow
+    * 4 projecteurs vidéo shortrow
     * 3 système d'acrochage
-    * 1 caméra thermique
+    * 1 caméra Sony a6000
 
 * Lumière
     * 4 lumière LED RGBAW DMX
@@ -114,12 +114,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Réseau
     * 4 fils cat6a de 15"
     * Switch poe 5 ports
+    * 3 Receiverss HDMI
+    * 1 Sender HDMI
 
 * Ordinateur
     * 1 ordinateur portable
 
 * micro ordinateur
-    * 1 raspberry pi    
+    * 4 raspberry pi    
     
 * Autre
     * Tout autre élément pertinent
@@ -138,18 +140,15 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Cardinal](https://cardinal.kx.studio/)
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
 
-* TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Guillaume Arsenault.
+* 
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
+  * Espace avec faux murs pour projection autours de la table
 
 * Petit studio
     * Enregsitrement audio
@@ -157,10 +156,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
-| Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
-|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Contrainte ou problème potentiel                     | Solution envisagée                                    | Commentaires                                                                                 |
+|------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Nous n'avons pas testé la caméra avec ReacTIVision    | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
+|                                                  |                                                           |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel

@@ -74,7 +74,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![schema](assets/images/schema_branchement.drawio.png)
+![schema](assets/images/schema_branchement_final.drawio.png)
 
 ## Matériel de scénographie requis ( jay/jacob - en cours )
 

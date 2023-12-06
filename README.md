@@ -132,7 +132,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [HyperHDR](https://github.com/awawa-dev/HyperHDR)
 * [VCV Rack](https://vcvrack.com/)
 * [Cardinal](https://cardinal.kx.studio/)
-* 
+* [OBS]
 
 ## Ressources humaines requises
 

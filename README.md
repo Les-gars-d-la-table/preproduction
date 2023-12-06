@@ -76,13 +76,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ![schema](assets/images/schema_branchement.drawio.png)
 
-## Matériel de scénographie requis ( jay - fini )
+## Matériel de scénographie requis ( jay/jacob - en cours )
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * table
-    * blanc ou noir
-    * 12' x 4' x 3'
+    * Matériaux: Bois, Métal, Acrylique
+    * dimensions de la table n'ont pas encore été déterminées
 * grand studio avec les murs amovibles
 
 ## Équipements requis (jay/jacob - en cours)
@@ -125,15 +125,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
-* [maya](https://www.autodesk.com/ca-fr)
+* [Autodesk Maya](https://www.autodesk.com/ca-fr)
 * [HyperHDR](https://github.com/awawa-dev/HyperHDR)
 * [VCV Rack](https://vcvrack.com/)
 * [Cardinal](https://cardinal.kx.studio/)
+* 
 
 ## Ressources humaines requises
 

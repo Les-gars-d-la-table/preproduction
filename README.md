@@ -231,7 +231,7 @@ Liste des tâches dans Git Hub:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
-**Tâches pas encore attribuées**  
+**Tâches pas encore attribuées**  ( etienne - finis)
 https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe

@@ -38,7 +38,7 @@
 Avec ce projet, nous souhaitons exposé une table interactive qui va être réactive. 
 
 ## Synopsis
-À déterminer 
+L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en bas pour faire apparaître et bouger des planètes et/ou d'autres objets astronomiques autour de l'orbite d'un soleil, représenté par la table elle même. Essentiellement, on construit notre propre système solaire! 
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.

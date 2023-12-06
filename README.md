@@ -58,8 +58,6 @@ L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en
 - ** paysages sonores
 - ** vfx d'animation 3D
 - ** source lumineuse
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
@@ -87,7 +85,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 12' x 4' x 3'
 * grand studio avec les murs amovibles
 
-## Équipements requis (jay - en cours)
+## Équipements requis (jay/jacob - en cours)
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
@@ -114,8 +112,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Réseau
     * 4 fils cat6a de 15"
     * Switch poe 5 ports
-    * 3 Receiverss HDMI
-    * 1 Sender HDMI
+    * 3 Receivers HDMI
+    * 3 Sender HDMI
 
 * Ordinateur
     * 1 ordinateur portable
@@ -123,8 +121,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * micro ordinateur
     * 4 raspberry pi    
     
-* Autre
-    * Tout autre élément pertinent
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
@@ -142,24 +138,25 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Ressources humaines requises
 
 * Guillaume Arsenault.
-* 
+* TTP
+* Possib
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
   * Espace avec faux murs pour projection autours de la table
+* Salle des matrices
+  * Accès à plusieurs ports ethernet, possibilité de pouvoir avoir notre ordinateur dans 
 
-* Petit studio
-    * Enregsitrement audio
-
-## Contraintes techniques et potentiels problèmes de production
+## Contraintes techniques et potentiels problèmes de production (Jacob - en cours)
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                     | Solution envisagée                                    | Commentaires                                                                                 |
 |------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons pas testé la caméra avec ReacTIVision    | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                           |                                                                                              |
+| Nous n'avons pas testé la caméra avec ReacTIVision    | Tester différentes caméras. | Dans le pire des Cas, c'est toujours possible d'utiliser une webcam, ou encore d'utiliser la librairie javascript que guillaume a trouvé|
+| Notre ordinateur doit pouvoir communiquer avec trop de choses en HDMI ou DisplayPort | Expérimenter des façons d'éviter d'avoir trop de choses connectées à l'ordinateur à la fois.| Travailler avec Guillaume pour faire en sorte que NDI fonctionne sur PI, cela économiserait un port.|
+|Nous ne pouvons pas faire la table nous-même. | Nous connaissons des soudeurs qui pourraient faire les parties métaliques pour nous.| Si ce n'est pas possible, on pourrait faire la table en bois complètement nous-même. |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
@@ -195,7 +192,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Programmation du module Max d'effet et de contrôle audio;
 - Construction de la table
 
-**Quoc huy**
+**Quoc huy Do**
 - S'assure du bon fonctionnement de Unity;
 - Coordination artistique;
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
@@ -206,7 +203,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Installation de l'équipement dans l'espace physique.
 
 **Jacob Alarie-Brousseau**
-- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
+- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition des rôles et des responsabilités des membres de l'équipe);
 - Programmation du module Max en lien avec le fonctionnement de la détection des statuettes et de leur position;
 - Construction de la table
 

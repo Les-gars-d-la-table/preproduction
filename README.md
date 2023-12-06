@@ -184,24 +184,16 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_que
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
-## Rôles et responsabilités des membres de l'équipe
+## Rôles et responsabilités des membres de l'équipe ( etienne - finis )
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Mikaël Tourangeau**
 - Modélisation et impression 3D des statuettes. 
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
 **Étienne Charron**
 - Comité Technique et coordination technique (suivi du devis technique);
 - Programmation du module Max d'effet et de contrôle audio;
 - Construction de la table
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Quoc huy**
 - S'assure du bon fonctionnement de Unity;
@@ -209,28 +201,14 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module Unity d'effets visuels et intégration dans Max.
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
 **Jérémy Cholette**
 - Création des paysages sonores
 - Installation de l'équipement dans l'espace physique.
-  
-
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Jacob Alarie-Brousseau**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Programmation du module Max en lien avec le fonctionnement de la détection des statuettes et de leur position;
 - Construction de la table
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
 
 ## Moments des rencontres d'équipe ( etienne - finis )
 Hebdomadaire

@@ -35,7 +35,7 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-Avec ce projet, nous souhaitons exposé une table interactive qui va être réactive. 
+L'idée originale de ce projet est partie de l'idée de la table, on voulait créer quelque chose qui serait intéressant et unique, 
 
 ## Synopsis
 L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en bas pour faire apparaître et bouger des planètes et/ou d'autres objets astronomiques autour de l'orbite d'un soleil, représenté par la table elle même. Essentiellement, on construit notre propre système solaire! 
@@ -89,14 +89,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 4 haut-parleurs actifs de 4"
+    * 4 haut-parleurs
     * 4 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 1 carte de son
 
 * Vidéo
     * 4 projecteurs vidéo shortrow
     * 3 système d'acrochage
-    * 1 caméra Sony a6000
+    * 1 caméra
 
 * Lumière
     * 4 lumière LED RGBAW DMX
@@ -105,18 +105,18 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Interface DMX USB
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 5 multiprise
 
 * Réseau
-    * 4 fils cat6a de 15"
     * Switch poe 5 ports
+    * 10 Cables Ethernet
+    * 8 Cables HDMI
     * 3 Receivers HDMI
     * 3 Sender HDMI
 
 * Ordinateur
-    * 1 ordinateur portable
+    * 1 ordinateur
 
 * micro ordinateur
     * 4 raspberry pi    

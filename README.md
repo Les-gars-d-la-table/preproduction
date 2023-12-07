@@ -111,7 +111,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Réseau
     * Switch poe 5 ports
     * 10 Cables Ethernet
-    * 8 Cables HDMI
+    * 8 Cables HDM    I
     * 3 Receivers HDMI
     * 3 Sender HDMI
 
@@ -140,7 +140,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Guillaume Arsenault.
 * TTP
-* Possib
+* Possiblement un soudeur
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.

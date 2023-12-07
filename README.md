@@ -47,11 +47,11 @@ L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia (jay - fini)
 
-- ** statuettes (pour les utilisateur-trices)
-- ** sons
-- ** paysages sonores
-- ** vfx d'animation 3D
-- ** source lumineuse
+-  statuettes (pour les utilisateur-trices)
+-  sons
+-  paysages sonores
+-  vfx d'animation 3D
+-  source lumineuse
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 

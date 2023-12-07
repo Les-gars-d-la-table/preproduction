@@ -39,11 +39,13 @@ L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en
 ## Tableau d'ambiance (*moodboard*)
 ![Unity Moodboard](assets/images/moodboardUnity.png)
 
+
 ## Scénario, scénarimage ou document audio/visuel (mik - en cours)
 ![scenarimage](assets/images/scenarigmage_bon.pdf)
 
+
 # Contenu multimédia à intégrer
-## Inventaire du contenu multimédia (jay - fini)
+## Inventaire du contenu multimédia
 
 -  statuettes (pour les utilisateur-trices)
 -  sons
@@ -169,9 +171,7 @@ univers contemplatif d'éléments relié a l'espace avec plusieurs formes et cou
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](assets/images/budget.PNG)
 
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
 
 ## Échéancier global

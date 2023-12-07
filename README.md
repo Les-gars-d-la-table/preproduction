@@ -178,13 +178,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
 
-## Échéancier global
+## Échéancier global ( Etienne - fini)
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser (Quoc Huy - fini)

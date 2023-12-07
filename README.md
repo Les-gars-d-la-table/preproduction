@@ -95,7 +95,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Table
-    * Matériaux: Bois, Métal, Acrylique, Spandex
+    * Matériaux: Bois, Alluminium, Acrylique, Spandex
     * dimensions de la table n'ont pas encore été déterminées
 * grand studio avec les murs amovibles
 

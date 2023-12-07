@@ -30,9 +30,7 @@
 ## Cartographie
 > Exemples:
 
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![cartographie](assets/images/brainstorm.png)
 
 ## Intention de départ
 L'idée originale de ce projet est partie de l'idée de la table, on voulait créer quelque chose qui serait intéressant à intéragir avec, et qui pourrait intéresser n'importe-qui, notre projet donne beaucoup de pouvoir à l'intéracteur, et c'est ce qui d'après nous le rend différent, l'intéracteur peut créer des combinaisons que nous-mêmes n'avont pas fait.

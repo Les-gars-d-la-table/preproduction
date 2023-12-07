@@ -219,4 +219,4 @@ https://github.com/Les-gars-d-la-table/preproduction/issues
 ## Moments des rencontres d'équipe
 Hebdomadaire
 - **lundi "9:30"h (1h)** : Rencontre de suivi de projet.
-- **lundi "17h" (1h)** : Rencontre du suivi de ce qu'on a réaliser pendant la semaine
+- **Vendredi "17h" (1h)** : Rencontre du suivi de ce qu'on a réaliser pendant la semaine

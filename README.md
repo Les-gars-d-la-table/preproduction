@@ -123,9 +123,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [Max 8](https://cycling74.com/products/max)   
+* [Cycling 74' Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 * [Autodesk Maya](https://www.autodesk.com/ca-fr)

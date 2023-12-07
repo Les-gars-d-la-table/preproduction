@@ -39,8 +39,10 @@ L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en
 ## Tableau d'ambiance (*moodboard*)
 ![Unity Moodboard](assets/images/moodboardUnity.png)
 
-## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+
+## Scénario, scénarimage ou document audio/visuel (mik - en cours)
+![scenarimage](assets/images/scenarigmage_bon.pdf)
+
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
@@ -51,11 +53,10 @@ L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en
 -  vfx d'animation 3D
 -  source lumineuse
 
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
+
 
 ## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
-
+univers contemplatif d'éléments relié a l'espace avec plusieurs formes et couleurs qui pourront se mélanger entre eux.
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 

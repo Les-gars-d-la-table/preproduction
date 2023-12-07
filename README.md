@@ -85,7 +85,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![cartographie](assets/images/plantationGrandStudio.png)
+![cartographie](assets/images/plantation.png)
 
 ### Schéma de branchement 
 

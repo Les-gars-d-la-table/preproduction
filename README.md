@@ -82,25 +82,29 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ![x-axis table](assets/images/table/tableModele5.png)
 > table sur l'angle X
 
+#### Légende
+* Rouge: Carte de son
+* Jaune: Raspberry PI
+* Rose: Projecteur
+* Vert: Haut-Parleur
+* Bleu: Caméra
+
 ### Plantation 
 
 ![exemple de plantation](medias/o3_plantation.svg)
 
 ### Schéma de branchement 
 
-![schema](assets/images/schema_branchement_final.drawio.png)
+![schema_branchement](assets/images/schema_branchement_final.drawio.png)
 
 ## Matériel de scénographie requis ( jay/jacob - en cours )
 
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
 * Table
-    * Matériaux: Bois, Alluminium, Acrylique, Spandex
+    * Matériaux: Bois, Aluminium, Acrylique, Spandex
     * dimensions de la table n'ont pas encore été déterminées
 * grand studio avec les murs amovibles
 
 ## Équipements requis (jay/jacob - en cours)
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
     * 4 haut-parleurs
@@ -148,7 +152,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Cardinal](https://cardinal.kx.studio/)
 * [OBS](https://obsproject.com)
 * [reacTIVision](https://reactivision.sourceforge.net)
-* [sonobus](https://www.sonobus.net/)
+* [Sonobus](https://www.sonobus.net/)
 
 ## Ressources humaines requises
 

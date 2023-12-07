@@ -68,11 +68,16 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette sectio.
 
-![Table de devant](medias/images/table/tableModele1.png)
-![Table de l'arrière](medias/images/table/tableModele2.png)
-![Fente](media/images/table/tableModele3.png)
-![y-axis table](media/images/table/tableModele4.png)
-![x-axis table](media/images/table/tableModele5.png)
+![Table de devant](assets/images/table/tableModele1.png)
+> Table modélisée dans Blender
+![Table de l'arrière](assets/images/table/tableModele2.png)
+> Angle différent de la table
+![Fente](assets/images/table/tableModele3.png)
+> Fente pour glisser le panneau d'acrylique dans la table.
+![y-axis table](assets/images/table/tableModele4.png)
+> table sur l'angle Y
+![x-axis table](assets/images/table/tableModele5.png)
+> table sur l'angle X
 
 ### Plantation 
 

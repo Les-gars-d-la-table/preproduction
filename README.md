@@ -66,7 +66,13 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette sectio.
+
+![Table de devant](medias/images/table/tableModele1.png)
+![Table de l'arrière](medias/images/table/tableModele2.png)
+![Fente](media/images/table/tableModele3.png)
+![y-axis table](media/images/table/tableModele4.png)
+![x-axis table](media/images/table/tableModele5.png)
 
 ### Plantation 
 

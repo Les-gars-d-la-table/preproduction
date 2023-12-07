@@ -43,7 +43,7 @@ L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en
 ## Tableau d'ambiance (*moodboard*)
 ![Unity Moodboard](assets/images/moodboardUnity.png)
 
-## Scénario, scénarimage ou document audio/visuel
+## Scénario, scénarimage ou document audio/visuel (mik - en cours)
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
 
 # Contenu multimédia à intégrer

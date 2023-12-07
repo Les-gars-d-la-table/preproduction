@@ -183,8 +183,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
-
+- Table terminer : Jeudi 15 février
+- Tous terminer les assets : Mardi 20 février
 - Fonctionnement total de tous les logiciels entre eux : Jeudi 29 Février
+- Projet final test : Lundi 18 mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser (Quoc Huy - fini)

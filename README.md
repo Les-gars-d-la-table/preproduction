@@ -143,12 +143,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Possiblement un soudeur
 
 ## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
   * Espace avec faux murs pour projection autours de la table.
 * Salle des matrices
-  * Accès à plusieurs ports ethernet, possibilité de pouvoir avoir notre ordinateur dans cette salle.
+  * Accès à plusieurs ports ethernet, possibilité de pouvoir avoir notre ordinateur dans cette salle. Possiblement également l'espace de rangement pour les statues de remplacement.
 
 ## Contraintes techniques et potentiels problèmes de production (Jacob - en cours)
 

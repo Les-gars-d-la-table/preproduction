@@ -40,7 +40,7 @@ L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en
 ![Unity Moodboard](assets/images/moodboardUnity.png)
 
 
-## Scénario, scénarimage ou document audio/visuel (mik - en cours)
+## Scénario, scénarimage ou document audio/visuel 
 ![scenarimage](assets/images/scenarigmage_bon.pdf)
 
 
@@ -191,7 +191,7 @@ https://github.com/orgs/Les-gars-d-la-table/projects/1/views/2
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
 https://github.com/Les-gars-d-la-table/preproduction/issues
 
-## Rôles et responsabilités des membres de l'équipe ( etienne - finis )
+## Rôles et responsabilités des membres de l'équipe 
 
 **Mikaël Tourangeau**
 - Modélisation et impression 3D des statuettes. 

@@ -35,7 +35,7 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-L'idée originale de ce projet est partie de l'idée de la table, on voulait créer quelque chose qui serait intéressant et unique, 
+L'idée originale de ce projet est partie de l'idée de la table, on voulait créer quelque chose qui serait intéressant à intéragir avec, et qui pourrait intéresser n'importe-qui, notre projet donne beaucoup de pouvoir à l'intéracteur, et c'est ce qui d'après moi le rend différent, l'intéracteur peut créer des combinaisons que nous-mêmes n'avont pas fait.
 
 ## Synopsis
 L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en bas pour faire apparaître et bouger des planètes et/ou d'autres objets astronomiques autour de l'orbite d'un soleil, représenté par la table elle même. Essentiellement, on construit notre propre système solaire! 

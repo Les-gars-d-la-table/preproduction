@@ -146,12 +146,11 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-  * Espace avec faux murs pour projection autours de la table
+  * Espace avec faux murs pour projection autours de la table.
 * Salle des matrices
-  * Accès à plusieurs ports ethernet, possibilité de pouvoir avoir notre ordinateur dans 
+  * Accès à plusieurs ports ethernet, possibilité de pouvoir avoir notre ordinateur dans cette salle.
 
 ## Contraintes techniques et potentiels problèmes de production (Jacob - en cours)
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                     | Solution envisagée                                    | Commentaires                                                                                 |
 |------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|

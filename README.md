@@ -1,5 +1,4 @@
 # Préproduction
-> C'est ici qu'on dépose les éléments de la préproduction.
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
@@ -28,7 +27,6 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
 
 ![cartographie](assets/images/brainstorm.png)
 
@@ -92,14 +90,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ![schema_branchement](assets/images/schema_branchement_final.drawio.png)
 
-## Matériel de scénographie requis ( jay/jacob - en cours )
+## Matériel de scénographie requis
 
 * Table
     * Matériaux: Bois, Aluminium, Acrylique, Spandex
     * dimensions de la table n'ont pas encore été déterminées
 * grand studio avec les murs amovibles
 
-## Équipements requis (jay/jacob - en cours)
+## Équipements requis
 
 * Audio
     * 4 haut-parleurs
@@ -155,7 +153,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * TTP
 * Possiblement un soudeur
 
-## Ressources spatiales requises (rangement et locaux)
+## Ressources spatiales requises
 
 * Grand studio
   * Espace avec faux murs pour projection autours de la table.
@@ -177,9 +175,8 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
 
-## Échéancier global ( Etienne - fini)
+## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 *Dates importantes :*
 - Table terminer : Jeudi 15 février
@@ -188,7 +185,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 - Projet final test : Lundi 18 mars
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
-## Liste des tâches à réaliser (Quoc Huy - fini)
+## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode kanban:  
 https://github.com/orgs/Les-gars-d-la-table/projects/1/views/2
 
@@ -220,7 +217,7 @@ https://github.com/Les-gars-d-la-table/preproduction/issues
 - Programmation du module Max en lien avec le fonctionnement de la détection des statuettes et de leur position;
 - Construction de la table
 
-## Moments des rencontres d'équipe ( etienne - finis )
+## Moments des rencontres d'équipe
 Hebdomadaire
 - **lundi "9:30"h (1h)** : Rencontre de suivi de projet.
 - **lundi "17h" (1h)** : Rencontre du suivi de ce qu'on a réaliser pendant la semaine

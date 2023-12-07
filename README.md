@@ -35,7 +35,7 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-L'idée originale de ce projet est partie de l'idée de la table, on voulait créer quelque chose qui serait intéressant à intéragir avec, et qui pourrait intéresser n'importe-qui, notre projet donne beaucoup de pouvoir à l'intéracteur, et c'est ce qui d'après moi le rend différent, l'intéracteur peut créer des combinaisons que nous-mêmes n'avont pas fait.
+L'idée originale de ce projet est partie de l'idée de la table, on voulait créer quelque chose qui serait intéressant à intéragir avec, et qui pourrait intéresser n'importe-qui, notre projet donne beaucoup de pouvoir à l'intéracteur, et c'est ce qui d'après nous le rend différent, l'intéracteur peut créer des combinaisons que nous-mêmes n'avont pas fait.
 
 ## Synopsis
 L'utilisateur intéragit avec en déplaçant une statuette avec un *fiducial* en bas pour faire apparaître et bouger des planètes et/ou d'autres objets astronomiques autour de l'orbite d'un soleil, représenté par la table elle même. Essentiellement, on construit notre propre système solaire! 
@@ -191,12 +191,12 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 - Prototype finale : lundi x décembre
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
-## Liste des tâches à réaliser
-Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+## Liste des tâches à réaliser (Quoc Huy - fini)
+Visualisation des tâches à réaliser dans GitHub selon la méthode kanban:  
+https://github.com/orgs/Les-gars-d-la-table/projects/1/views/2
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/Les-gars-d-la-table/preproduction/issues
 
 ## Rôles et responsabilités des membres de l'équipe ( etienne - finis )
 
